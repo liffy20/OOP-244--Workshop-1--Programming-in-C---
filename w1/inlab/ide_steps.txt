@@ -1,0 +1,18 @@
+Steps to creating a console application:
+
+1. Start visual studio
+2. Open menu bar and click file --> new project
+3. Choose the type of application you want to build. Ex. console application
+4. Specify the name you would like the program to be called
+5. Wrtie a simple program, make sure to include the related libarary/header file for example #include<stdio.h>
+6. Write some code. For example:
+
+int main (void){
+
+printf("hello")
+
+return 0;
+
+7. Save file and go ctrl + F5 to compile and run the code
+
+FINISHED
